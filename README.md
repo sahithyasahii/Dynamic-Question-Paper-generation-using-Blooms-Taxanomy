@@ -100,10 +100,5 @@ BTL_PROJECT/
 └── requirements.txt    # Project dependencies
 ```
 
----
+-
 
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-*Created for Academic Purposes (2025-2026)*
