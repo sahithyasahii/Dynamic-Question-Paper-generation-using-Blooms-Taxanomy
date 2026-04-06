@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-Flask-lightgrey.svg)](https://flask.palletsprojects.com/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 
 A sophisticated, web-based application designed to automate the creation of balanced and standardized question papers based on **Bloom's Taxonomy**.
 
